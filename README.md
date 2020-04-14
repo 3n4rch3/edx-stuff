@@ -1,2 +1,2 @@
-# edx-stuff (i.e., just study doodles)
-Yep, that's it for now!
+# edx-stuff
+Yep, that's it for now...just doodles!
