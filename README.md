@@ -1,1 +1,1 @@
-# edx-stuff (i.e., just doodles)
+# edx-stuff (i.e., just study doodles)
